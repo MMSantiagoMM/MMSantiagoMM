@@ -2,8 +2,8 @@
  <img style="width:250px;"  src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="">
 
 - I'm Santiago Mosquera Mápura
-- I'm historier
-- I study software development
+- I'm historier of the University of Antioquia
+- I study software development at CESDE
  
  <img style="width: 70px; height: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="">  <img style="width: 70px; height: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt="">
 
