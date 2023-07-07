@@ -1,9 +1,7 @@
 ### Hi! 👋🏿
  <img style="width:250px;"  src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="">
 
-- I'm Santiago Mosquera Mápura
-- I studied history at the University of Antioquia
-- I study software development at CESDE
+I'm Santiago Mosquera Mápura, passionate and adaptable tech enthusiast with a thirst for continuous learning. With a background in history, I bring a unique perspective to the ever-evolving world of technology. My ability to quickly grasp new concepts and my creative problem-solving skills make me a valuable asset in any tech-driven environment. Equally comfortable working independently or collaborating in a team, I thrive in dynamic settings that require innovation and adaptability. With a strong work ethic and a genuine passion for leveraging technology to drive meaningful change, I am excited to contribute my skills and continue growing in the fast-paced realm of technology
  
  <img style="width: 70px; height: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="">  <img style="width: 70px; height: 70px;" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" alt=""> <img style="60px" height="60px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="">
 
